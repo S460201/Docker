@@ -18,7 +18,7 @@ sudo apt-get update
 sudo apt-get install -y docker-ce
 
 
-git clone https://github.com/npsoni88/devops-monitoring.git
+git clone https://github.com/S460201/Docker.git
 
 cd devops-monitoring/forethought-app
 docker build . -t IMAGE-NAME (replace image name with your name)
